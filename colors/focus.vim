@@ -1,10 +1,10 @@
-highlight comment    ctermfg=7 ctermbg=none cterm=none
+highlight Comment    ctermfg=7 ctermbg=none cterm=none
 
-highlight constant   ctermfg=none ctermbg=none cterm=none
-highlight delimiter  ctermfg=none ctermbg=none cterm=none
-highlight function   ctermfg=none ctermbg=none cterm=none
-highlight identifier ctermfg=none ctermbg=none cterm=none
-highlight preproc    ctermfg=none ctermbg=none cterm=none
-highlight special    ctermfg=none ctermbg=none cterm=none
-highlight statement  ctermfg=none ctermbg=none cterm=none
-highlight type       ctermfg=none ctermbg=none cterm=none
+highlight Constant   ctermfg=none ctermbg=none cterm=none
+highlight Delimiter  ctermfg=none ctermbg=none cterm=none
+highlight Function   ctermfg=none ctermbg=none cterm=none
+highlight Identifier ctermfg=none ctermbg=none cterm=none
+highlight Preproc    ctermfg=none ctermbg=none cterm=none
+highlight Special    ctermfg=none ctermbg=none cterm=none
+highlight Statement  ctermfg=none ctermbg=none cterm=none
+highlight Type       ctermfg=none ctermbg=none cterm=none
