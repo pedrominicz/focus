@@ -1,3 +1,11 @@
+highlight clear
+
+if exists('syntax_on')
+  syntax reset
+endif
+
+let g:colors_name = 'focus'
+
 highlight Comment    ctermfg=7 ctermbg=none cterm=none
 
 highlight Constant   ctermfg=none ctermbg=none cterm=none
