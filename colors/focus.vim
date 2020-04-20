@@ -6,13 +6,13 @@ endif
 
 let g:colors_name = 'focus'
 
-highlight Comment    ctermfg=7 ctermbg=none cterm=none
+highlight Comment       ctermfg=7 ctermbg=none cterm=none
 
-" Okay, I lied. I also add a different color for vertical splits and status
-" lines.
-highlight VertSplit     ctermfg=8 ctermbg=none cterm=reverse
-highlight StatusLine    ctermfg=8 ctermbg=none cterm=reverse
-highlight StatusLineNC  ctermfg=8 ctermbg=none cterm=bold,reverse
+" Okay, I lied. I also add a different color for the status line and vertical
+" splits.
+highlight StatusLine    ctermfg=7 ctermbg=none cterm=bold,reverse
+highlight StatusLineNC  ctermfg=7 ctermbg=none cterm=reverse
+highlight VertSplit     ctermfg=7 ctermbg=none cterm=reverse
 
 highlight Constant      ctermfg=none ctermbg=none cterm=none
 highlight Delimiter     ctermfg=none ctermbg=none cterm=none
