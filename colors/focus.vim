@@ -13,6 +13,7 @@ highlight Comment       ctermfg=7 ctermbg=none cterm=none
 highlight StatusLine    ctermfg=7 ctermbg=none cterm=bold,reverse
 highlight StatusLineNC  ctermfg=7 ctermbg=none cterm=reverse
 highlight VertSplit     ctermfg=7 ctermbg=none cterm=reverse
+highlight Visual        ctermfg=7 ctermbg=none cterm=reverse
 
 highlight Constant      ctermfg=none ctermbg=none cterm=none
 highlight Delimiter     ctermfg=none ctermbg=none cterm=none
