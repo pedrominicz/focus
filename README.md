@@ -1,6 +1,6 @@
 # Focus: An exceedingly simple Vim color scheme.
 
-Syntax highlighting is mostly unnecessary. This color scheme does the necessary. The bare minimum.
+Syntax highlighting is mostly unnecessary. This color scheme does the necessary: the bare minimum.
 
 Focus can be installed with [`vim-plug`][1].
 
