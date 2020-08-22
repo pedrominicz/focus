@@ -17,11 +17,13 @@ highlight Visual        ctermfg=gray ctermbg=none cterm=reverse
 
 " And for errors, but c'mon.
 highlight Error         ctermfg=none ctermbg=red cterm=bold
+highlight SpellBad      ctermfg=none ctermbg=red cterm=bold
 
 highlight Constant      ctermfg=none ctermbg=none cterm=none
 highlight Delimiter     ctermfg=none ctermbg=none cterm=none
 highlight Function      ctermfg=none ctermbg=none cterm=none
 highlight Identifier    ctermfg=none ctermbg=none cterm=none
+highlight MatchParen    ctermfg=none ctermbg=none cterm=none
 highlight PreProc       ctermfg=none ctermbg=none cterm=none
 highlight Special       ctermfg=none ctermbg=none cterm=none
 highlight Statement     ctermfg=none ctermbg=none cterm=none
@@ -29,5 +31,3 @@ highlight Title         ctermfg=none ctermbg=none cterm=none
 highlight Todo          ctermfg=none ctermbg=none cterm=none
 highlight Type          ctermfg=none ctermbg=none cterm=none
 highlight Underlined    ctermfg=none ctermbg=none cterm=none
-
-highlight! link SpellBad Error
