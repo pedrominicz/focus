@@ -10,6 +10,8 @@ let g:colors_name = 'focus'
 " gray = darkgray = #7f7f7f
 " red = #cd0000
 
+highlight Normal guibg=#000000
+
 highlight Comment       ctermfg=gray ctermbg=none cterm=none guifg=#7f7f7f guibg=none gui=none
 highlight SpecialKey    ctermfg=gray ctermbg=none cterm=none guifg=#7f7f7f guibg=none gui=none
 highlight String        ctermfg=gray ctermbg=none cterm=none guifg=#7f7f7f guibg=none gui=none
